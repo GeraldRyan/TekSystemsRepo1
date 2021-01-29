@@ -7,7 +7,7 @@ PYTHON
 ```python
 print("Hello World")
 ```
-c
+C
 ```c
 char* hw = "Hello World"
 printf("%s\n", hw)
